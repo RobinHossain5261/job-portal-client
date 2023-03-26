@@ -17,7 +17,7 @@ const Banner = () => {
                     <button className='bg-base-100 rounded-t-md font-semibold text-black  py-3 px-5 ml-3 focus:bg-primary focus:text-white hover:bg-primary hover:text-white'>Job Poster</button>
 
                     <div className='bg-base-100 p-10 rounded-xl lg:flex gap-3 z-10'>
-                        <input type="text" placeholder="Your job" className="input input-bordered w-full lg:max-w-xs" />
+                        <input type="text" placeholder="Your keyword" className="input input-bordered w-full lg:max-w-xs" />
                         <select className="select select-bordered w-full lg:max-w-[150px] text-[#A7A7A7] my-3 lg:my-0">
                             <option disabled selected>Category</option>
                             <option>Full-time</option>
