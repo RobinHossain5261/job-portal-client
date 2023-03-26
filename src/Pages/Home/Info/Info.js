@@ -7,7 +7,7 @@ import interview from '../../../images/interview.png';
 const Info = () => {
     return (
         <div className=' bg-gray-200 py-20'>
-            <div className='w-3/4 mx-auto grid grid-cols-4 gap-10'>
+            <div className='w-3/4 mx-auto grid lg:grid-cols-4 md:grid-cols-2 gap-10'>
                 <div>
                     <img className='w-[60px]' src={jobs}></img>
                     <h3 className='text-2xl py-3 font-semibold'>Search Millions of Jobs</h3>
