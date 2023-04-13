@@ -1,0 +1,300 @@
+[
+    {
+        "category": "Freshers Job",
+        "details": [
+            {
+                "_id": 1,
+                "job": "Front End Developer",
+                "salary": "10000",
+                "openings": "10",
+                "company": "Buddha Education Association",
+                "about-company": "BuddhaNet is the result of a vision to link up with the growing worldwide culture of people committed to Buddha's teachings and lifestyle, as an online cyber sangha. In this way, an ancient tradition and the information superhighway will come together to create an electronic meeting place of shared concern and interests.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "AngularJS, Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS, Swift",
+                "location": "Dhaka",
+                "image": "https://internshala.com/cached_uploads/logo%2F5f5216193fc151599215129.gif"
+            },
+            {
+                "_id": 2,
+                "job": "Reactjs Developer",
+                "company": "Buddha Education Association",
+                "location": "Khulna",
+                "salary": "12000",
+                "openings": "2",
+                "about-company": "Digital Crew is one of the best game-designing companies in India in the iGaming industry. Since its inception, Digital Crew has gone through a plethora of transformations. What started with game development, eventually expanded into a full-bloomed technology production. Our development team specializes in creating a diverse range of games. From simple rummy and humble poker to technologically upgraded casinos, we deal with everything.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS",
+                "image": "https://internshala.com/cached_uploads/logo%2F60a3546d008471621316717.png"
+            },
+            {
+                "_id": 3,
+                "job": "Graphic Designer",
+                "salary": "9000",
+                "openings": "7",
+                "company": "Tanya Creates",
+                "about-company": "I am a freelance graphic designer with a business called Tanya Creates. I have been practicing my craft for 2 years and am skilled in creating visually appealing designs for a variety of clients. My expertise includes logo design, branding, print materials, and website graphics. I am a detail-oriented individual who is committed to delivering high-quality work that meets my client's needs and exceeds their expectations.",
+                "about-job": "Create graphics for my social media channel.Create high-conversion banner advertisements for ad campaigns for the clients.Design the infographics, newsletters, and presentations for the clients. Work on video editing for reels for different clients.Work on designs for offline marketing collaterals like brochures, flyers, posters, etc.Deliver 8-9 designs every day",
+                "skills": "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Indesign, Adobe Photoshop",
+                "location": "pabna",
+                "image": "https://internshala.com/cached_uploads/logo%2F63d3758a8875e1674802570.jpg"
+            },
+            {
+                "_id": 4,
+                "job": "Front End Developer",
+                "salary": "10000",
+                "openings": "10",
+                "company": "Buddha Education Association",
+                "about-company": "BuddhaNet is the result of a vision to link up with the growing worldwide culture of people committed to Buddha's teachings and lifestyle, as an online cyber sangha. In this way, an ancient tradition and the information superhighway will come together to create an electronic meeting place of shared concern and interests.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "AngularJS, Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS, Swift",
+                "location": "Dhaka",
+                "image": "https://internshala.com/cached_uploads/logo%2F5f5216193fc151599215129.gif"
+            },
+            {
+                "_id": 5,
+                "job": "Reactjs Developer",
+                "company": "Buddha Education Association",
+                "location": "Khulna",
+                "salary": "12000",
+                "openings": "2",
+                "about-company": "Digital Crew is one of the best game-designing companies in India in the iGaming industry. Since its inception, Digital Crew has gone through a plethora of transformations. What started with game development, eventually expanded into a full-bloomed technology production. Our development team specializes in creating a diverse range of games. From simple rummy and humble poker to technologically upgraded casinos, we deal with everything.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS",
+                "image": "https://internshala.com/cached_uploads/logo%2F60a3546d008471621316717.png"
+            },
+            {
+                "_id": 6,
+                "job": "Graphic Designer",
+                "salary": "9000",
+                "openings": "7",
+                "company": "Tanya Creates",
+                "about-company": "I am a freelance graphic designer with a business called Tanya Creates. I have been practicing my craft for 2 years and am skilled in creating visually appealing designs for a variety of clients. My expertise includes logo design, branding, print materials, and website graphics. I am a detail-oriented individual who is committed to delivering high-quality work that meets my client's needs and exceeds their expectations.",
+                "about-job": "Create graphics for my social media channel.Create high-conversion banner advertisements for ad campaigns for the clients.Design the infographics, newsletters, and presentations for the clients. Work on video editing for reels for different clients.Work on designs for offline marketing collaterals like brochures, flyers, posters, etc.Deliver 8-9 designs every day",
+                "skills": "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Indesign, Adobe Photoshop",
+                "location": "pabna",
+                "image": "https://internshala.com/cached_uploads/logo%2F63d3758a8875e1674802570.jpg"
+            },
+            {
+                "_id": 7,
+                "job": "Front End Developer",
+                "salary": "10000",
+                "openings": "10",
+                "company": "Buddha Education Association",
+                "about-company": "BuddhaNet is the result of a vision to link up with the growing worldwide culture of people committed to Buddha's teachings and lifestyle, as an online cyber sangha. In this way, an ancient tradition and the information superhighway will come together to create an electronic meeting place of shared concern and interests.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "AngularJS, Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS, Swift",
+                "location": "Dhaka",
+                "image": "https://internshala.com/cached_uploads/logo%2F5f5216193fc151599215129.gif"
+            },
+            {
+                "_id": 8,
+                "job": "Reactjs Developer",
+                "company": "Buddha Education Association",
+                "location": "Khulna",
+                "salary": "12000",
+                "openings": "2",
+                "about-company": "Digital Crew is one of the best game-designing companies in India in the iGaming industry. Since its inception, Digital Crew has gone through a plethora of transformations. What started with game development, eventually expanded into a full-bloomed technology production. Our development team specializes in creating a diverse range of games. From simple rummy and humble poker to technologically upgraded casinos, we deal with everything.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS",
+                "image": "https://internshala.com/cached_uploads/logo%2F60a3546d008471621316717.png"
+            },
+            {
+                "_id": 9,
+                "job": "Graphic Designer",
+                "salary": "9000",
+                "openings": "7",
+                "company": "Tanya Creates",
+                "about-company": "I am a freelance graphic designer with a business called Tanya Creates. I have been practicing my craft for 2 years and am skilled in creating visually appealing designs for a variety of clients. My expertise includes logo design, branding, print materials, and website graphics. I am a detail-oriented individual who is committed to delivering high-quality work that meets my client's needs and exceeds their expectations.",
+                "about-job": "Create graphics for my social media channel.Create high-conversion banner advertisements for ad campaigns for the clients.Design the infographics, newsletters, and presentations for the clients. Work on video editing for reels for different clients.Work on designs for offline marketing collaterals like brochures, flyers, posters, etc.Deliver 8-9 designs every day",
+                "skills": "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Indesign, Adobe Photoshop",
+                "location": "pabna",
+                "image": "https://internshala.com/cached_uploads/logo%2F63d3758a8875e1674802570.jpg"
+            },
+            {
+                "_id": 10,
+                "job": "Front End Developer",
+                "salary": "10000",
+                "openings": "10",
+                "company": "Buddha Education Association",
+                "about-company": "BuddhaNet is the result of a vision to link up with the growing worldwide culture of people committed to Buddha's teachings and lifestyle, as an online cyber sangha. In this way, an ancient tradition and the information superhighway will come together to create an electronic meeting place of shared concern and interests.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "AngularJS, Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS, Swift",
+                "location": "Dhaka",
+                "image": "https://internshala.com/cached_uploads/logo%2F5f5216193fc151599215129.gif"
+            },
+            {
+                "_id": 11,
+                "job": "Reactjs Developer",
+                "company": "Buddha Education Association",
+                "location": "Khulna",
+                "salary": "12000",
+                "openings": "2",
+                "about-company": "Digital Crew is one of the best game-designing companies in India in the iGaming industry. Since its inception, Digital Crew has gone through a plethora of transformations. What started with game development, eventually expanded into a full-bloomed technology production. Our development team specializes in creating a diverse range of games. From simple rummy and humble poker to technologically upgraded casinos, we deal with everything.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS",
+                "image": "https://internshala.com/cached_uploads/logo%2F60a3546d008471621316717.png"
+            },
+            {
+                "_id": 12,
+                "job": "Graphic Designer",
+                "salary": "9000",
+                "openings": "7",
+                "company": "Tanya Creates",
+                "about-company": "I am a freelance graphic designer with a business called Tanya Creates. I have been practicing my craft for 2 years and am skilled in creating visually appealing designs for a variety of clients. My expertise includes logo design, branding, print materials, and website graphics. I am a detail-oriented individual who is committed to delivering high-quality work that meets my client's needs and exceeds their expectations.",
+                "about-job": "Create graphics for my social media channel.Create high-conversion banner advertisements for ad campaigns for the clients.Design the infographics, newsletters, and presentations for the clients. Work on video editing for reels for different clients.Work on designs for offline marketing collaterals like brochures, flyers, posters, etc.Deliver 8-9 designs every day",
+                "skills": "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Indesign, Adobe Photoshop",
+                "location": "pabna",
+                "image": "https://internshala.com/cached_uploads/logo%2F63d3758a8875e1674802570.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Experience Jobs",
+        "details": [
+            {
+                "_id": 1,
+                "job": "Java Developer",
+                "salary": "15000",
+                "openings": "8",
+                "company": "Vouch Digital",
+                "about-company": "At Vouch Digital, we create digital experiences and touchpoints that enables business and startups to drive conversions. Our expertise involves UI/UX design, product design & development, web applications, Android, and iOS applications.We are an intersection of creativity, design, and technology. Our comprehensive full-service value offering allows streamlining the process of conceptualizing, designing, developing, implementing, supporting, and managing the application lifecycle. Here, we have a 100% remote work policy for employees.",
+                "about-job": " Designing, implementing, and maintaining Java applications that are often high-volume and low-latency, required for mission-critical systems. Contributing to all phases of the development lifecycle.Writing well-designed, efficient, and testable code.Conducting software analysis, programming, testing, and debugging. Managing Java and Java EE application development.Ensuring designs comply with specifications",
+                "skills": "Java",
+                "location": "Comilla",
+                "image": "https://internshala.com/cached_uploads/logo%2F5fa8b1d3dad651604891091.png"
+            },
+            {
+                "_id": 2,
+                "job": "Reactjs Developer",
+                "company": "Buddha Education Association",
+                "location": "Khulna",
+                "salary": "14000",
+                "openings": "6",
+                "about-company": "Digital Crew is one of the best game-designing companies in India in the iGaming industry. Since its inception, Digital Crew has gone through a plethora of transformations. What started with game development, eventually expanded into a full-bloomed technology production. Our development team specializes in creating a diverse range of games. From simple rummy and humble poker to technologically upgraded casinos, we deal with everything.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS",
+                "image": "https://internshala.com/cached_uploads/logo%2F60a3546d008471621316717.png"
+            },
+            {
+                "_id": 3,
+                "job": "Graphic Designer",
+                "salary": "9000",
+                "openings": "7",
+                "company": "Tanya Creates",
+                "about-company": "I am a freelance graphic designer with a business called Tanya Creates. I have been practicing my craft for 2 years and am skilled in creating visually appealing designs for a variety of clients. My expertise includes logo design, branding, print materials, and website graphics. I am a detail-oriented individual who is committed to delivering high-quality work that meets my client's needs and exceeds their expectations.",
+                "about-job": "Create graphics for my social media channel.Create high-conversion banner advertisements for ad campaigns for the clients.Design the infographics, newsletters, and presentations for the clients. Work on video editing for reels for different clients.Work on designs for offline marketing collaterals like brochures, flyers, posters, etc.Deliver 8-9 designs every day",
+                "skills": "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Indesign, Adobe Photoshop",
+                "location": "pabna",
+                "image": "https://internshala.com/cached_uploads/logo%2F63d3758a8875e1674802570.jpg"
+            },
+            {
+                "_id": 4,
+                "job": "Front End Developer",
+                "salary": "10000",
+                "openings": "10",
+                "company": "Buddha Education Association",
+                "about-company": "BuddhaNet is the result of a vision to link up with the growing worldwide culture of people committed to Buddha's teachings and lifestyle, as an online cyber sangha. In this way, an ancient tradition and the information superhighway will come together to create an electronic meeting place of shared concern and interests.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "AngularJS, Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS, Swift",
+                "location": "Dhaka",
+                "image": "https://internshala.com/cached_uploads/logo%2F5f5216193fc151599215129.gif"
+            },
+            {
+                "_id": 5,
+                "job": "Reactjs Developer",
+                "company": "Buddha Education Association",
+                "location": "Khulna",
+                "salary": "12000",
+                "openings": "2",
+                "about-company": "Digital Crew is one of the best game-designing companies in India in the iGaming industry. Since its inception, Digital Crew has gone through a plethora of transformations. What started with game development, eventually expanded into a full-bloomed technology production. Our development team specializes in creating a diverse range of games. From simple rummy and humble poker to technologically upgraded casinos, we deal with everything.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS",
+                "image": "https://internshala.com/cached_uploads/logo%2F60a3546d008471621316717.png"
+            },
+            {
+                "_id": 6,
+                "job": "Graphic Designer",
+                "salary": "9000",
+                "openings": "7",
+                "company": "Tanya Creates",
+                "about-company": "I am a freelance graphic designer with a business called Tanya Creates. I have been practicing my craft for 2 years and am skilled in creating visually appealing designs for a variety of clients. My expertise includes logo design, branding, print materials, and website graphics. I am a detail-oriented individual who is committed to delivering high-quality work that meets my client's needs and exceeds their expectations.",
+                "about-job": "Create graphics for my social media channel.Create high-conversion banner advertisements for ad campaigns for the clients.Design the infographics, newsletters, and presentations for the clients. Work on video editing for reels for different clients.Work on designs for offline marketing collaterals like brochures, flyers, posters, etc.Deliver 8-9 designs every day",
+                "skills": "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Indesign, Adobe Photoshop",
+                "location": "pabna",
+                "image": "https://internshala.com/cached_uploads/logo%2F63d3758a8875e1674802570.jpg"
+            },
+            {
+                "_id": 7,
+                "job": "Front End Developer",
+                "salary": "10000",
+                "openings": "10",
+                "company": "Buddha Education Association",
+                "about-company": "BuddhaNet is the result of a vision to link up with the growing worldwide culture of people committed to Buddha's teachings and lifestyle, as an online cyber sangha. In this way, an ancient tradition and the information superhighway will come together to create an electronic meeting place of shared concern and interests.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "AngularJS, Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS, Swift",
+                "location": "Dhaka",
+                "image": "https://internshala.com/cached_uploads/logo%2F5f5216193fc151599215129.gif"
+            },
+            {
+                "_id": 8,
+                "job": "Reactjs Developer",
+                "company": "Buddha Education Association",
+                "location": "Khulna",
+                "salary": "12000",
+                "openings": "2",
+                "about-company": "Digital Crew is one of the best game-designing companies in India in the iGaming industry. Since its inception, Digital Crew has gone through a plethora of transformations. What started with game development, eventually expanded into a full-bloomed technology production. Our development team specializes in creating a diverse range of games. From simple rummy and humble poker to technologically upgraded casinos, we deal with everything.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS",
+                "image": "https://internshala.com/cached_uploads/logo%2F60a3546d008471621316717.png"
+            },
+            {
+                "_id": 9,
+                "job": "Graphic Designer",
+                "salary": "9000",
+                "openings": "7",
+                "company": "Tanya Creates",
+                "about-company": "I am a freelance graphic designer with a business called Tanya Creates. I have been practicing my craft for 2 years and am skilled in creating visually appealing designs for a variety of clients. My expertise includes logo design, branding, print materials, and website graphics. I am a detail-oriented individual who is committed to delivering high-quality work that meets my client's needs and exceeds their expectations.",
+                "about-job": "Create graphics for my social media channel.Create high-conversion banner advertisements for ad campaigns for the clients.Design the infographics, newsletters, and presentations for the clients. Work on video editing for reels for different clients.Work on designs for offline marketing collaterals like brochures, flyers, posters, etc.Deliver 8-9 designs every day",
+                "skills": "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Indesign, Adobe Photoshop",
+                "location": "pabna",
+                "image": "https://internshala.com/cached_uploads/logo%2F63d3758a8875e1674802570.jpg"
+            },
+            {
+                "_id": 10,
+                "job": "Front End Developer",
+                "salary": "10000",
+                "openings": "10",
+                "company": "Buddha Education Association",
+                "about-company": "BuddhaNet is the result of a vision to link up with the growing worldwide culture of people committed to Buddha's teachings and lifestyle, as an online cyber sangha. In this way, an ancient tradition and the information superhighway will come together to create an electronic meeting place of shared concern and interests.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "AngularJS, Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS, Swift",
+                "location": "Dhaka",
+                "image": "https://internshala.com/cached_uploads/logo%2F5f5216193fc151599215129.gif"
+            },
+            {
+                "_id": 11,
+                "job": "Reactjs Developer",
+                "company": "Buddha Education Association",
+                "location": "Khulna",
+                "salary": "20000",
+                "openings": "2",
+                "about-company": "Digital Crew is one of the best game-designing companies in India in the iGaming industry. Since its inception, Digital Crew has gone through a plethora of transformations. What started with game development, eventually expanded into a full-bloomed technology production. Our development team specializes in creating a diverse range of games. From simple rummy and humble poker to technologically upgraded casinos, we deal with everything.",
+                "about-job": "Buddha Education Association Inc. is looking for an experienced front-end developer to join our team. We are looking for a high-energy individual with a passion for creating high-quality digital products and user experiences. The successful candidate will have an excellent knowledge of HTML, CSS, JavaScript, ReactJS, Bootstrap, AngularJS, jQuery, and Swift.",
+                "skills": "Bootstrap, CSS, HTML, JavaScript, jQuery, ReactJS",
+                "image": "https://internshala.com/cached_uploads/logo%2F60a3546d008471621316717.png"
+            },
+            {
+                "_id": 12,
+                "job": "Graphic Designer",
+                "salary": "19000",
+                "openings": "7",
+                "company": "Tanya Creates",
+                "about-company": "I am a freelance graphic designer with a business called Tanya Creates. I have been practicing my craft for 2 years and am skilled in creating visually appealing designs for a variety of clients. My expertise includes logo design, branding, print materials, and website graphics. I am a detail-oriented individual who is committed to delivering high-quality work that meets my client's needs and exceeds their expectations.",
+                "about-job": "Create graphics for my social media channel.Create high-conversion banner advertisements for ad campaigns for the clients.Design the infographics, newsletters, and presentations for the clients. Work on video editing for reels for different clients.Work on designs for offline marketing collaterals like brochures, flyers, posters, etc.Deliver 8-9 designs every day",
+                "skills": "Adobe After Effects, Adobe Creative Suite, Adobe Illustrator, Adobe Indesign, Adobe Photoshop",
+                "location": "pabna",
+                "image": "https://internshala.com/cached_uploads/logo%2F63d3758a8875e1674802570.jpg"
+            }
+        ]
+    }
+]
